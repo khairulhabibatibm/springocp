@@ -8,7 +8,7 @@ public class MyController {
 
     @GetMapping("/test")
     public String sayHello(){
-        return "Halo";
+        return "Halo this is Springboot";
     }
     
 }
